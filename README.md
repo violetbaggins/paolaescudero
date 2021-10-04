@@ -5,6 +5,7 @@ https://paolaescudero.github.io/cv/
 ### aca te dejo cosas que se pueden clickear:
 
 ## Páginas
+* https://violetbaggins.github.io/tinderventura/
 * https://correcachetescorre.herokuapp.com/
 * https://violettuts.wordpress.com/
 * http://mundoparlante.herokuapp.com/
